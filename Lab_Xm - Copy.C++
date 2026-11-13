@@ -1,0 +1,2 @@
+//odd
+#include<bits/std
